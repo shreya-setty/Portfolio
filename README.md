@@ -2,6 +2,9 @@
 
 Welcome to the Portfolio repository! This project showcases a personal portfolio website built to highlight skills, projects, and professional experience.
 
+![Screenshot 2025-01-10 173237](https://github.com/user-attachments/assets/2cd49c02-4542-4ac2-b4ef-57c23482bedd)
+
+
 ## Features
 
 - **Responsive Design**: Optimized for all devices, including mobile, tablet, and desktop.
